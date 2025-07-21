@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ATHUL0527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/ATHUL0527/Leetcode/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/ATHUL0527/Leetcode/tree/master/0344-reverse-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ATHUL0527/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ATHUL0527/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ATHUL0527/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
