@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ATHUL0527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/ATHUL0527/Leetcode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/ATHUL0527/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ATHUL0527/Leetcode/tree/master/0344-reverse-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ATHUL0527/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ATHUL0527/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
