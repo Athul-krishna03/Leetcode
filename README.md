@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ATHUL0527/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ATHUL0527/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
