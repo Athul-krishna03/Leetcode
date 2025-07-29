@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ATHUL0527/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ATHUL0527/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ATHUL0527/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ATHUL0527/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ATHUL0527/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ATHUL0527/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
