@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ATHUL0527/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/ATHUL0527/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ATHUL0527/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ATHUL0527/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ATHUL0527/Leetcode/tree/master/0118-pascals-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ATHUL0527/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
