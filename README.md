@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ATHUL0527/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ATHUL0527/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2689-rearranging-fruits](https://github.com/ATHUL0527/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ATHUL0527/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ATHUL0527/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ATHUL0527/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ATHUL0527/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ATHUL0527/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2689-rearranging-fruits](https://github.com/ATHUL0527/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ATHUL0527/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
+| [2689-rearranging-fruits](https://github.com/ATHUL0527/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ATHUL0527/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2689-rearranging-fruits](https://github.com/ATHUL0527/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ATHUL0527/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ATHUL0527/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ATHUL0527/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
