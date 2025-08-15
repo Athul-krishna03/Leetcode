@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ATHUL0527/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ATHUL0527/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ATHUL0527/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/ATHUL0527/Leetcode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ATHUL0527/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ATHUL0527/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ATHUL0527/Leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ATHUL0527/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/ATHUL0527/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
