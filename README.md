@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ATHUL0527/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ATHUL0527/Leetcode/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ATHUL0527/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ATHUL0527/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/ATHUL0527/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -70,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ATHUL0527/Leetcode/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ATHUL0527/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ATHUL0527/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ATHUL0527/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1448-maximum-69-number](https://github.com/ATHUL0527/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ATHUL0527/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/ATHUL0527/Leetcode/tree/master/2689-rearranging-fruits) |
