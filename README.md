@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ATHUL0527/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ATHUL0527/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ATHUL0527/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ATHUL0527/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/ATHUL0527/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ATHUL0527/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ATHUL0527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/ATHUL0527/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/ATHUL0527/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ATHUL0527/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ATHUL0527/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ATHUL0527/Leetcode/tree/master/0268-missing-number) |
 | [2689-rearranging-fruits](https://github.com/ATHUL0527/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
