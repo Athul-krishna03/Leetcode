@@ -7,10 +7,11 @@ var maxProfit = function(prices) {
    let maxProfit = 0
    let cheapest = prices[0]
    while(right <= prices.length){
-     if(prices[right]<cheapest){
+    let val = prices[right]
+     if(val < cheapest){
         cheapest = prices[right]
      }
-     maxProfit = (prices[right]-cheapest)>maxProfit?(prices[right]-cheapest):maxProfit
+     maxProfit = (val-cheapest)>maxProfit?(val-cheapest):maxProfit
      right++
    }
    return maxProfit
